@@ -1,4 +1,4 @@
-import logo from "../assets/Header-SidLabs-Logo-a3451e32.png"
+import logo from "../assets/logo.png"
 const Navbar = () => {
   return <nav className=" container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center ">
     <a className="flex title-font font-medium items-center text-gray-900 mb-4 px-2 py-2">

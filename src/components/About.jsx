@@ -1,4 +1,4 @@
-import aboutImg from "../assets/Mission-59e18e6f.png";
+import aboutImg from "../assets/about.png";
 import { motion } from "framer-motion";
 
 const About = () => {

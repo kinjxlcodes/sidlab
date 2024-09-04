@@ -1,6 +1,6 @@
 import { Typography } from "@material-tailwind/react";
 import { FaFacebookF, FaTwitter, FaLinkedinIn, FaInstagram } from "react-icons/fa";
-import logo from "../assets/Header-SidLabs-Logo-a3451e32.png";
+import logo from "../assets/logo.png";
 
 const LINKS = [
   // My links here
