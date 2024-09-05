@@ -1,8 +1,8 @@
-import logo from "../asset/logo.png"
+//import logo from "public/asset/logo.png"
 const Navbar = () => {
   return <nav className=" container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center ">
     <a className="flex title-font font-medium items-center text-gray-900 mb-4 px-2 py-2">
-        <img src={logo} alt="logo"/>
+        <img src="public/asset/logo.png" alt="logo"/>
     </a>
     {/* Navbar Links */}
     <div className="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">

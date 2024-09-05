@@ -14,7 +14,7 @@ const Project = () => {
             </motion.span>
           <div className="w-full lg:w-auto mt-12 flex justify-around space-x-4">
             <a href="https://aiwisepartners.com/" target="_blank" rel="noopener noreferrer" className="relative group w-1/3">
-              <img className="h-auto w-full shadow-lg dark:shadow-black/30 transition-transform duration-500 group-hover:scale-110 group-hover:blur-sm rounded-lg" src="src/asset/projects/project1.png" alt="AIwise Partners"/>
+              <img className="h-auto w-full shadow-lg dark:shadow-black/30 transition-transform duration-500 group-hover:scale-110 group-hover:blur-sm rounded-lg" src="public/asset/projects/project1.png" alt="AIwise Partners"/>
               <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-500">
                 <div className="bg-white bg-opacity-75 p-4 rounded-lg shadow-lg">
                   <h3 className="text-lg font-bold">[AI]wise Partners: Revolutionizing Business Intelligence</h3>
@@ -25,7 +25,7 @@ const Project = () => {
               </div>
             </a>
             <a href="https://www.awarewilderness.com/" target="_blank" rel="noopener noreferrer" className="relative group w-1/3">
-              <img className="h-auto w-full shadow-lg dark:shadow-black/30 transition-transform duration-500 group-hover:scale-110 group-hover:blur-sm rounded-lg" src="src/asset/projects/project2.png" alt="Aware Wilderness"/>
+              <img className="h-auto w-full shadow-lg dark:shadow-black/30 transition-transform duration-500 group-hover:scale-110 group-hover:blur-sm rounded-lg" src="public/asset/projects/project2.png" alt="Aware Wilderness"/>
               <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-500">
                 <div className="bg-white bg-opacity-75 p-4 rounded-lg shadow-lg">
                   <h3 className="text-lg font-bold">AwareWilderness: CRAFTING MEMORIES</h3>
@@ -36,7 +36,7 @@ const Project = () => {
               </div>
             </a>
             <a href="https://care.talktomissmp.com/" target="_blank" rel="noopener noreferrer" className="relative group w-1/3">
-              <img className="h-auto w-full shadow-lg dark:shadow-black/30 transition-transform duration-500 group-hover:scale-110 group-hover:blur-sm rounded-lg" src="src/asset/projects/project3.png" alt="CARE Platform"/>
+              <img className="h-auto w-full shadow-lg dark:shadow-black/30 transition-transform duration-500 group-hover:scale-110 group-hover:blur-sm rounded-lg" src="public/asset/projects/project3.png" alt="CARE Platform"/>
               <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-500">
                 <div className="bg-white bg-opacity-75 p-4 rounded-lg shadow-lg">
                   <h3 className="text-lg font-bold">CARE Platform</h3>
@@ -59,7 +59,7 @@ const Project = () => {
 
         {/* Image Section */}
         <div className="lg:w-1/2 mt-8 lg:mt-0 flex justify-center">
-          <img src="src/asset/robot1.png" className="w-64 lg:w-96"/>
+          <img src="public/asset/robot1.png" className="w-64 lg:w-96"/>
         </div>
       </div>
 

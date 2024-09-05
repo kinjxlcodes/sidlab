@@ -1,4 +1,4 @@
-import aboutImg from "../asset/about.png";
+//import aboutImg from "public/asset/about.png";
 import { motion } from "framer-motion";
 
 const About = () => {
@@ -8,7 +8,7 @@ const About = () => {
         <div className="w-full lg:w-1/2 lg:p-12">
           <div className="flex items-center justify-center mt-24">
             <motion.img
-              src={aboutImg}
+              src="public/asset/about.png"
               alt="Levitating"
               className="rounded-2xl"
               animate={{

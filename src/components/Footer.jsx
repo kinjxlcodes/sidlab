@@ -1,6 +1,6 @@
 import { Typography } from "@material-tailwind/react";
 import { FaFacebookF, FaTwitter, FaLinkedinIn, FaInstagram } from "react-icons/fa";
-import logo from "../asset/logo.png";
+//import logo from ".public/asset/logo.png";
 
 const LINKS = [
   // My links here
@@ -14,7 +14,7 @@ export function Footer() {
       <div className="mx-auto w-full max-w-7xl px-8">
         <div className="grid grid-cols-1 justify-between gap-4 md:grid-cols-2">
           <a className="flex title-font font-medium items-center text-gray-900 mt-2 mb-6 px-2 py-2">
-            <img src={logo} alt="logo" />
+            <img src="public/asset/logo.png" alt="logo" />
           </a>
           <p className="mt-2">Join us on this extraordinary journey as we redefine the limits of human potential. Together, we are forging a brighter future—one innovation at a time.</p>
           <div className="grid grid-cols-3 justify-between gap-4">
