@@ -1,6 +1,6 @@
 import { Typography } from "@material-tailwind/react";
 import { FaFacebookF, FaTwitter, FaLinkedinIn, FaInstagram } from "react-icons/fa";
-import logo from "../assets/logo.png";
+import logo from "../asset/logo.png";
 
 const LINKS = [
   // My links here

@@ -18,7 +18,7 @@ const Insights = () => {
           }}
         >
           <img
-            src="src/assets/insight1.png" // Replace with actual image URL
+            src="src/asset/insight1.png" // Replace with actual image URL
             alt="Industry Update"
             className="w-full h-48 object-cover mb-4 rounded"
           />
@@ -42,7 +42,7 @@ const Insights = () => {
           }}
         >
           <img
-            src="src/assets/insight2.png" // Replace with actual image URL
+            src="src/asset/insight2.png" // Replace with actual image URL
             alt="Online Tech Education"
             className="w-full h-48 object-cover mb-4 rounded"
           />
@@ -66,7 +66,7 @@ const Insights = () => {
           }}
         >
           <img
-            src="src/assets/insight3.png" // Replace with actual image URL
+            src="src/asset/insight3.png" // Replace with actual image URL
             alt="Modern Age Parenting"
             className="w-full h-48 object-cover mb-4 rounded"
           />

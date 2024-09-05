@@ -54,7 +54,7 @@ const Hero = () => {
             />
 
             <img
-              src="src/assets/modelX.png"
+              src="src/asset/modelX.png"
               alt="Profile"
               className="w-[250px] h-[250px] lg:w-[450px] lg:h-[450px] rounded-full object-cover shadow-lg"
               style={{ boxShadow: '0px 4px 15px rgba(0, 0, 0, 0.3)' }}
