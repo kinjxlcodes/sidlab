@@ -59,7 +59,7 @@ const Project = () => {
 
         {/* Image Section */}
         <div className="lg:w-1/2 mt-8 lg:mt-0 flex justify-center">
-          <img src="src/asset/Destination-Image-eb10ae12 7.23.22 PM.png" className="w-64 lg:w-96"/>
+          <img src="src/asset/robot1.png" className="w-64 lg:w-96"/>
         </div>
       </div>
 
